@@ -1,4 +1,5 @@
 # wxCurl
+
 Clone of improved wxCurl from OpenCPN. wxCURL is a simplified and integrated interface between LibCURL and wxWidgets. 
 
 As libCURL authors state, libcurl is free, thread-safe, IPv6 compatible, feature rich, well supported, 
